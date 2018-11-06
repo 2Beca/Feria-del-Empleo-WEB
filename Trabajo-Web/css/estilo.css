@@ -29,7 +29,14 @@ input:hover[type=button], input:hover[type=submit], input:hover[type=reset] {
   color: black;
   background-color: white;
 }
-
+footer {
+  background-color: black;
+  position: relative;
+  bottom: 170px;
+  width: 100%;
+  height: 30px;
+  color: white;
+}
 .page-container {
     overflow: hidden;
     width: 1000px;
@@ -357,9 +364,8 @@ body {
 }
 
 
-/* andre part */
+¡
 
-/* profile edit */
 .content {
   display: inline-block;
   position: relative;
@@ -454,7 +460,7 @@ td.last{
     color: #0f0e15;
     background-color: #646a6d;
   }
-  footer{
+/*   footer{
     position:absolute;
     bottom: 0;
     left: 0;
@@ -463,7 +469,7 @@ td.last{
     width: 100%;
     padding: 8px;
 
-  }
+  } */
   ul.SM li{
       list-style-type: none;
       display: inline;
